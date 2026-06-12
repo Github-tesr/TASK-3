@@ -1,0 +1,34 @@
+body{
+    background-color:orange;
+}
+.head{
+    color:darkblue;
+}
+#bglime{
+    background-color:lime;
+    color:red;
+
+}
+p{
+    color:white;
+}
+#para{
+    background-color:green;
+}
+.highlight{
+    color:black;
+    font-size:30px;
+}
+ul>#another>a{
+    background-color:yellow;
+}
+a{
+    background-color:green;
+}
+
+ol li:nth-child(2){
+    color:cyan;
+}
+ol li:nth-child(3){
+    color:magenta;
+}
